@@ -1,5 +1,5 @@
 ## PiHeadphone
-This project is still a work in progress <br>
+This project is still a work in progress. PiHeadphones is a part of my participation in the Innovation Team @ IEEE, a student organisation at Georgia Tech.
 PiHeadphones uses bone conduction technology to make a pair of bone conduction headphones. I plan on implementing CMU Sphinx and auto detection of if they're being used in the future.
 
 ### Hardware Required
