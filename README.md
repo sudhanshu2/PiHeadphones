@@ -5,7 +5,7 @@ PiHeadphones uses bone conduction technology to make a pair of bone conduction h
 ### Hardware Required
 * Raspberry Pi Zero W
 * Bone conductor transducer ([Adafruit product page](https://www.adafruit.com/product/1674))
-* Audio amplifier  ([MAX98306 Stereo Audio]https://www.adafruit.com/product/987))
+* Audio amplifier  ([MAX98306 Stereo Audio](https://www.adafruit.com/product/987))
 
 ### Raspberry Pi Zero USB SSH Set-up
 To enable SSH over USB on your Pi without access to a Wifi network, you can follow instructions [here](https://desertbot.io/blog/ssh-into-pi-zero-over-usb). <br>
